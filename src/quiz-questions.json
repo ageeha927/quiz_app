@@ -1,0 +1,131 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is the largest species of whale?",
+            "choices": ["Humpback Whale", "Blue Whale", "Orca", "Sperm Whale"],
+            "correctAnswer": "Blue Whale"
+        },
+        {
+            "id": 2,
+            "question": "Which marine animal can change its color and texture to blend with its surroundings?",
+            "choices": ["Dolphin", "Octopus", "Shark", "Sea Turtle"],
+            "correctAnswer": "Octopus"
+        },
+        {
+            "id": 3,
+            "question": "How do clownfish protect themselves from sea anemone stings?",
+            "choices": ["Special mucus layer", "Hard shell", "Quick swimming", "Camouflage"],
+            "correctAnswer": "Special mucus layer"
+        },
+        {
+            "id": 4,
+            "question": "Which marine mammal is known for its long tusk?",
+            "choices": ["Seal", "Walrus", "Sea Lion", "Manatee"],
+            "correctAnswer": "Walrus"
+        },
+        {
+            "id": 5,
+            "question": "What is the primary diet of whale sharks?",
+            "choices": ["Large fish", "Plankton", "Squid", "Seals"],
+            "correctAnswer": "Plankton"
+        },
+        {
+            "id": 6,
+            "question": "Which marine animal can live both in water and on land?",
+            "choices": ["Dolphin", "Sea Otter", "Seal", "Blue Whale"],
+            "correctAnswer": "Seal"
+        },
+        {
+            "id": 7,
+            "question": "What is the most venomous marine animal?",
+            "choices": ["Great White Shark", "Box Jellyfish", "Stonefish", "Moray Eel"],
+            "correctAnswer": "Box Jellyfish"
+        },
+        {
+            "id": 8,
+            "question": "How do sea otters keep warm in cold water?",
+            "choices": ["Thick blubber", "Dense fur", "Active swimming", "Deep diving"],
+            "correctAnswer": "Dense fur"
+        },
+        {
+            "id": 9,
+            "question": "Which marine animal is known for its intelligence and complex communication?",
+            "choices": ["Shark", "Dolphin", "Sea Cucumber", "Starfish"],
+            "correctAnswer": "Dolphin"
+        },
+        {
+            "id": 10,
+            "question": "What is unique about the mantis shrimp's vision?",
+            "choices": ["Night vision", "16 color receptors", "Colorblind", "No eyes"],
+            "correctAnswer": "16 color receptors"
+        },
+        {
+            "id": 11,
+            "question": "Which marine animal can regenerate its arms?",
+            "choices": ["Octopus", "Shark", "Starfish", "Whale"],
+            "correctAnswer": "Starfish"
+        },
+        {
+            "id": 12,
+            "question": "What is the primary hunting method of great white sharks?",
+            "choices": ["Chasing", "Ambush", "Pack hunting", "Trap laying"],
+            "correctAnswer": "Ambush"
+        },
+        {
+            "id": 13,
+            "question": "How do coral polyps obtain most of their food?",
+            "choices": ["Hunting", "Photosynthesis", "Filtering water", "Scavenging"],
+            "correctAnswer": "Filtering water"
+        },
+        {
+            "id": 14,
+            "question": "Which marine animal can live for over 200 years?",
+            "choices": ["Sea Turtle", "Great White Shark", "Greenland Shark", "Orca"],
+            "correctAnswer": "Greenland Shark"
+        },
+        {
+            "id": 15,
+            "question": "What allows electric eels to generate electricity?",
+            "choices": ["Special organs", "Chemical reaction", "Static buildup", "Magnetic fields"],
+            "correctAnswer": "Special organs"
+        },
+        {
+            "id": 16,
+            "question": "Which marine mammal has the thickest blubber layer?",
+            "choices": ["Blue Whale", "Polar Bear", "Elephant Seal", "Walrus"],
+            "correctAnswer": "Polar Bear"
+        },
+        {
+            "id": 17,
+            "question": "How do seahorses reproduce?",
+            "choices": ["Male gives birth", "Eggs laid in water", "Live birth", "Splitting"],
+            "correctAnswer": "Male gives birth"
+        },
+        {
+            "id": 18,
+            "question": "What is a unique defense mechanism of pufferfish?",
+            "choices": ["Camouflage", "Inflating body", "Playing dead", "Ink release"],
+            "correctAnswer": "Inflating body"
+        },
+        {
+            "id": 19,
+            "question": "Which marine animal can jump the highest out of water?",
+            "choices": ["Dolphin", "Sailfish", "Flying Fish", "Killer Whale"],
+            "correctAnswer": "Sailfish"
+        },
+        {
+            "id": 20,
+            "question": "What do sea sponges primarily do in marine ecosystems?",
+            "choices": ["Provide food", "Filter water", "Create shelter", "Produce oxygen"],
+            "correctAnswer": "Filter water"
+        },
+        {
+            "id": 21,
+            "question": "BONUS: Which marine animal has the largest brain relative to body size?",
+            "choices": ["Sperm Whale", "Dolphin", "Orca", "Giant Squid"],
+            "correctAnswer": "Sperm Whale",
+            "isBonus": true
+        }
+    ]
+}
